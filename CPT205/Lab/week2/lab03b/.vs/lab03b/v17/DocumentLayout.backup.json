@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\code\\vs_repos\\lab03b\\",
+  "WorkspaceRootPath": "F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0999F76-7305-499F-AB7F-C6CC4EF9B520}|lab03b\\lab03b.vcxproj|F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E0999F76-7305-499F-AB7F-C6CC4EF9B520}|lab03b\\lab03b.vcxproj|solutionrelative:lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab03b\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab03b\\lab03b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\.gitignore",
+              "RelativeDocumentMoniker": "lab03b\\.gitignore",
+              "ToolTip": "F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\.gitignore",
+              "RelativeToolTip": "lab03b\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-18T09:38:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab03b.cpp",
-              "DocumentMoniker": "F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp",
+              "DocumentMoniker": "F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\lab03b.cpp",
               "RelativeDocumentMoniker": "lab03b\\lab03b.cpp",
-              "ToolTip": "F:\\code\\vs_repos\\lab03b\\lab03b\\lab03b.cpp",
+              "ToolTip": "F:\\Y3S1\\CPT205\\Lab\\week2\\lab03b\\lab03b\\lab03b.cpp",
               "RelativeToolTip": "lab03b\\lab03b.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAKgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-18T09:16:51.161Z",
               "EditorCaption": ""
