@@ -1,0 +1,47 @@
+🪜 第 1 步：打开 Property Manager（属性管理器）
+
+在 Visual Studio 顶部菜单栏点击：
+View → Other Windows → Property Manager
+（中文界面是：视图 → 其他窗口 → 属性管理器）
+
+会在下方打开一个新的面板，名字叫 Property Manager。
+
+🪜 第 2 步：展开项目配置
+
+在 Property Manager 窗口中，你会看到类似结构：
+
+lab04
+ ┣ Debug | x64
+ ┣ Release | x64
+ ┣ Debug | x86
+ ┗ Release | x86
+
+
+每一项代表一个构建配置（比如 Debug/x64）。
+
+🪜 第 3 步：添加 .props 文件
+
+右键点击你要添加的配置（例如 Debug | x64）。
+
+选择 Add Existing Property Sheet...（添加现有属性表）。
+
+选择你之前放在项目目录下的 .props 文件（例如：
+743e1c01-9e43-4608-8e63-bb26ef97a153.props）。
+
+点击 打开 (Open)。
+
+🪜 第 4 步（可选）：确认是否被导入成功
+
+展开 Debug | x64 节点。
+
+你应该能看到新的一行，比如：
+
+743e1c01-9e43-4608-8e63-bb26ef97a153.props
+
+
+双击它可以查看或编辑属性。
+
+🪜 第 5 步：对其他配置重复
+
+如果你也希望 Release 或 x86 平台使用同样的设置，
+就对它们也重复 右键 → Add Existing Property Sheet... 操作。
