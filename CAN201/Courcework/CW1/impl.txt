@@ -1,0 +1,32 @@
+1.develop env
+The project was developed collaboratively on both macOS and Windows systems to ensure cross-platform compatibility and stability. All team members used a unified Python version (Python 3.10) to maintain consistency across environments, with PyCharm Community Edition as the primary IDE.
+Git (version 2.50.1) was used for version control and collaborative development, enabling efficient coordination and synchronization among team members.
+The implementation involved key Python libraries such as socket, json, struct, hashlib, threading, tqdm, logging, os, sys, and time. These tools together supported efficient, reliable, and maintainable development of the file transfer protocol and its related functionalities.
+
+2.steps impl
+
+3.program skills
+This project demonstrates a wide range of programming skills and software engineering principles throughout its development process.
+
+Object-Oriented Programming (OOP):
+The program follows OOP principles by organizing the code into well-defined functions and modules, resulting in a clear structure and strong extensibility.
+
+Modularity and Code Reusability:
+Core functionalities such as login, file upload, and file deletion are encapsulated into independent functions (e.g., task2_login(), task3_upload_file(), task4_delete_file()), while existing server-side utility functions are reused (e.g., get_file_md5(), make_packet(), get_tcp_packet() imported from server.py), making maintenance and feature extension more efficient.
+
+Multithreading:
+The project introduces a multithreading mechanism (e.g., using threading.Thread in task3_upload_file()), which enables parallel file block uploads and significantly improves data transfer efficiency.
+
+Input/Output with Parameters and Console Interaction:
+The program allows users to operate either via command-line arguments (e.g., --server_ip, --id, --f, --d) or through interactive console menus, providing flexible control over operations such as file upload, file deletion, thread count, and retry settings.
+
+4.actual implementation
+5.difficulties
+5.1 understand
+During the process of understanding the code functionality and overall structure, we encountered several challenges. Firstly, as it was our first time working with the logging system, we needed time to familiarize ourselves with the logging parameters, output formats, and features. Secondly, understanding the TCP data transmission principles also posed difficulties, particularly regarding the packing and unpacking of binary data (bin_data) and JSON data. We had to study how functions like make_packet() and get_tcp_packet() construct and parse data while ensuring its integrity and correctness. Additionally, we spent time analyzing and thoroughly understanding each method’s purpose, inputs, outputs, and calling logic, to ensure proper usage and integration of all modules. This process helped us gradually become familiar with the communication logic between the server and client and deepened our understanding of the functionality of each module.
+5.2 git control
+During collaborative development, our team encountered module integration issues (such as interface or parameter mismatches causing function call failures), some members being new to Git and unfamiliar with version control, and challenges in reaching consensus (differences in implementation approaches or priority decisions). To address these issues, we standardized module interface specifications at the early stage, provided guidance to improve members’ familiarity with Git, and held regular discussions and real-time communication to reach team consensus, thereby ensuring smooth module integration, code consistency, and development efficiency.
+5.3 multiprocessing
+During development, we encountered a limitation in which the retransmission of any single file block could block the entire upload process. To address this issue, we introduced a multi-threading mechanism that allows multiple file blocks to be uploaded concurrently.
+
+However, during implementation, we discovered that the queue module was not included in the list of allowed modules. Therefore, to coordinate task scheduling among threads, we designed a lightweight replacement mechanism based on a shared list protected by threading.Lock. Each thread safely retrieves its assigned block index under lock control, ensuring mutual exclusion and consistency.

@@ -1,0 +1,81 @@
+BIN
+2025-11-14 12:13:55,449 - INFO - === Upload Performance ===
+2025-11-14 12:13:55,449 - INFO - File size: 10.00 MB
+2025-11-14 12:13:55,449 - INFO - Upload time: 2573 ms
+2025-11-14 12:13:55,455 - INFO - Upload speed: 3.89 MB/s
+2025-11-14 12:13:55,562 - INFO - MD5 match - Upload successful
+2025-11-14 12:13:55,562 - INFO - Upload completed successfully
+2025-11-14 12:13:55,567 - INFO - Connection closed
+
+TXT
+2025-11-14 13:04:10,368 - INFO - === Upload Performance ===
+2025-11-14 13:04:10,368 - INFO - File size: 10.00 MB
+2025-11-14 13:04:10,371 - INFO - Upload time: 2523 ms
+2025-11-14 13:04:10,371 - INFO - Upload speed: 3.96 MB/s
+2025-11-14 13:04:10,481 - INFO - MD5 match - Upload successful
+2025-11-14 13:04:10,481 - INFO - Upload completed successfully
+2025-11-14 13:04:10,487 - INFO - Connection closed
+
+MP3
+2025-11-14 12:52:40,446 - INFO - === Upload Performance ===
+2025-11-14 12:52:40,446 - INFO - File size: 10.00 MB
+2025-11-14 12:52:40,446 - INFO - Upload time: 2544 ms
+2025-11-14 12:52:40,447 - INFO - Upload speed: 3.93 MB/s
+2025-11-14 12:52:40,553 - INFO - MD5 match - Upload successful
+2025-11-14 12:52:40,558 - INFO - Upload completed successfully
+2025-11-14 12:52:40,561 - INFO - Connection closed
+
+MP4
+2025-11-14 12:55:28,729 - INFO - === Upload Performance ===
+2025-11-14 12:55:28,729 - INFO - File size: 10.00 MB
+2025-11-14 12:55:28,729 - INFO - Upload time: 2590 ms
+2025-11-14 12:55:28,729 - INFO - Upload speed: 3.86 MB/s
+2025-11-14 12:55:28,841 - INFO - MD5 match - Upload successful
+2025-11-14 12:55:28,841 - INFO - Upload completed successfully
+2025-11-14 12:55:28,841 - INFO - Connection closed
+
+DOCX
+2025-11-14 12:56:06,271 - INFO - === Upload Performance ===
+2025-11-14 12:56:06,271 - INFO - File size: 10.00 MB
+2025-11-14 12:56:06,273 - INFO - Upload time: 2549 ms
+2025-11-14 12:56:06,273 - INFO - Upload speed: 3.92 MB/s
+2025-11-14 12:56:06,332 - INFO - MD5 match - Upload successful
+2025-11-14 12:56:06,336 - INFO - Upload completed successfully
+2025-11-14 12:56:06,339 - INFO - Connection closed
+
+PPTX
+2025-11-14 12:56:48,512 - INFO - === Upload Performance ===
+2025-11-14 12:56:48,514 - INFO - File size: 10.00 MB
+2025-11-14 12:56:48,514 - INFO - Upload time: 2473 ms
+2025-11-14 12:56:48,514 - INFO - Upload speed: 4.04 MB/s
+2025-11-14 12:56:48,623 - INFO - MD5 match - Upload successful
+2025-11-14 12:56:48,631 - INFO - Upload completed successfully
+2025-11-14 12:56:48,634 - INFO - Connection closed
+
+JPG
+2025-11-14 13:01:50,116 - INFO - === Upload Performance ===
+2025-11-14 13:01:50,116 - INFO - File size: 10.08 MB
+2025-11-14 13:01:50,116 - INFO - Upload time: 2600 ms
+2025-11-14 13:01:50,116 - INFO - Upload speed: 3.88 MB/s
+2025-11-14 13:01:50,227 - INFO - MD5 match - Upload successful
+2025-11-14 13:01:50,230 - INFO - Upload completed successfully
+2025-11-14 13:01:50,234 - INFO - Connection closed
+
+PNG
+2025-11-14 13:03:05,587 - INFO - === Upload Performance ===
+2025-11-14 13:03:05,587 - INFO - File size: 10.00 MB
+2025-11-14 13:03:05,587 - INFO - Upload time: 2756 ms
+2025-11-14 13:03:05,587 - INFO - Upload speed: 3.63 MB/s
+2025-11-14 13:03:05,693 - INFO - MD5 match - Upload successful
+2025-11-14 13:03:05,699 - INFO - Upload completed successfully
+2025-11-14 13:03:05,699 - INFO - Connection closed
+
+PDF
+2025-11-14 13:05:41,302 - INFO - === Upload Performance ===
+2025-11-14 13:05:41,302 - INFO - File size: 10.00 MB
+2025-11-14 13:05:41,302 - INFO - Upload time: 2704 ms
+2025-11-14 13:05:41,302 - INFO - Upload speed: 3.70 MB/s
+2025-11-14 13:05:41,359 - INFO - MD5 match - Upload successful
+2025-11-14 13:05:41,364 - INFO - Upload completed successfully
+2025-11-14 13:05:41,366 - INFO - Connection closed
+

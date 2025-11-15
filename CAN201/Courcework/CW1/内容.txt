@@ -1,0 +1,22 @@
+develop environment
+programming skills
+steps of implementation
+Program implementation
+--authorization function
+--file uploading function
+difficulties and solutions
+--teamwork
+--coding
+
+development environment
+Steps of implementation(改错 + flowchart of implementation)
+programming skills --oop --parallelism
+Actual implementation
+difficulties
+
+the host environment
+the development tools
+Steps of implementation
+programming skills
+actual implementation
+difficulties

@@ -1,0 +1,41 @@
+BIN
+2025-11-14 12:12:25,823 - INFO - === Upload Performance ===
+2025-11-14 12:12:25,823 - INFO - File size: 1.00 MB
+2025-11-14 12:12:25,823 - INFO - Upload time: 451 ms
+2025-11-14 12:12:25,823 - INFO - Upload speed: 2.22 MB/s
+2025-11-14 12:12:25,823 - INFO - MD5 match - Upload successful
+2025-11-14 12:12:25,832 - INFO - Upload completed successfully
+2025-11-14 12:12:25,833 - INFO - Connection closed
+
+2025-11-14 12:13:28,905 - INFO - === Upload Performance ===
+2025-11-14 12:13:28,912 - INFO - File size: 5.00 MB
+2025-11-14 12:13:28,912 - INFO - Upload time: 1362 ms
+2025-11-14 12:13:28,912 - INFO - Upload speed: 3.67 MB/s
+2025-11-14 12:13:28,937 - INFO - MD5 match - Upload successful
+2025-11-14 12:13:28,937 - INFO - Upload completed successfully
+2025-11-14 12:13:28,948 - INFO - Connection closed
+
+2025-11-14 12:13:55,449 - INFO - === Upload Performance ===
+2025-11-14 12:13:55,449 - INFO - File size: 10.00 MB
+2025-11-14 12:13:55,449 - INFO - Upload time: 2573 ms
+2025-11-14 12:13:55,455 - INFO - Upload speed: 3.89 MB/s
+2025-11-14 12:13:55,562 - INFO - MD5 match - Upload successful
+2025-11-14 12:13:55,562 - INFO - Upload completed successfully
+2025-11-14 12:13:55,567 - INFO - Connection closed
+
+2025-11-14 12:14:32,965 - INFO - === Upload Performance ===
+2025-11-14 12:14:32,965 - INFO - File size: 15.00 MB
+2025-11-14 12:14:32,968 - INFO - Upload time: 3802 ms
+2025-11-14 12:14:32,968 - INFO - Upload speed: 3.95 MB/s
+2025-11-14 12:14:33,130 - INFO - MD5 match - Upload successful
+2025-11-14 12:14:33,145 - INFO - Upload completed successfully
+2025-11-14 12:14:33,146 - INFO - Connection closed
+
+2025-11-14 12:15:10,411 - INFO - === Upload Performance ===
+2025-11-14 12:15:10,411 - INFO - File size: 20.00 MB
+2025-11-14 12:15:10,411 - INFO - Upload time: 5113 ms
+2025-11-14 12:15:10,411 - INFO - Upload speed: 3.91 MB/s
+2025-11-14 12:15:10,626 - INFO - MD5 match - Upload successful
+2025-11-14 12:15:10,634 - INFO - Upload completed successfully
+2025-11-14 12:15:10,634 - INFO - Connection closed
+
