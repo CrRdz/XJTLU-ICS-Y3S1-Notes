@@ -1,0 +1,8 @@
+redirect：
+ryu-manager ryu_redirect.py
+sudo python3 topology.py
+python3 server.py
+python3 server.py
+client:
+tcpdump -I client-eth0 -w redirect.pcap
+python3 client.py
