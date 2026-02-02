@@ -7,9 +7,9 @@ This repository collects my course notes and resources for XJTLU **ICS (Informat
 Current modules included:
 
 * **CAN201**: Computer Networking
-* **CPT203**: Operating Systems
+* **CPT203**: Software Engineering I
 * **CPT205**: Computer Graphics
-* **INT201**: Software Engineering I
+* **INT201**: Decision Computation and Language
 
 *(Feel free to browse the folders for specific chapter notes and codes)*
 
